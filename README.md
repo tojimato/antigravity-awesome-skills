@@ -553,8 +553,18 @@ We officially thank the following contributors for their help in making this rep
 - [@HMAKT99](https://github.com/HMAKT99)
 - [@nickdesi](https://github.com/nickdesi)
 - [@connerlambden](https://github.com/connerlambden)
-- [@1bcMax](https://github.com/1bcMax)
 - [@zhangyanxs](https://github.com/zhangyanxs)
+- [@818cortex](https://github.com/818cortex)
+- [@edudeftones-cloud](https://github.com/edudeftones-cloud)
+- [@emanoelCarvalho](https://github.com/emanoelCarvalho)
+- [@Evozim](https://github.com/Evozim)
+- [@globalchatapp](https://github.com/globalchatapp)
+- [@Imasaikiran](https://github.com/Imasaikiran)
+- [@jiawei248](https://github.com/jiawei248)
+- [@justmiroslav](https://github.com/justmiroslav)
+- [@octo-patch](https://github.com/octo-patch)
+- [@tanveer-farooq](https://github.com/tanveer-farooq)
+- [@unitedideas](https://github.com/unitedideas)
 
 ## Star History
 
